@@ -1,11 +1,16 @@
-{
-"blogs":[
-{
-    "id":1,
-    "header":"My First Blog",
-    "body":"I am testig for blog implementation",
-    "image":"",
-    "year":""
-}
-]
-}
+[
+    {
+    "id": 1,
+    "header": "",
+    "body": "<h2>Save Electricity</h2><p>Electricity is a type of energy that consists of the movement of electrons between two points when there is a potential difference between them, making it possible to generate what is known as an electric current.</p>",
+    "image": "2-15-2024",
+    "year": ""
+    },
+    {
+    "header": "",
+    "body": "<h2>Tree</h2><p> Trees produce oxygen for our environment and absorb harmful carbon dioxide gas. Without trees, there would be no life on this planet. Our ancestors used tree wood to forge weapons and hunt in the past.</p>",
+    "image": "",
+    "year": "3-19-2024",
+    "id": 2
+    }
+    ]
